@@ -14,3 +14,10 @@ AudioImporter:
   3D: 1
   userData: 
   assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62697
+  packageName: 'Car''Toon : The Sport Car with interior'
+  packageVersion: 1.0
+  assetPath: Assets/SomePackages/Standard Assets/Vehicles/Car/Audio/AccelerationLow.wav
+  uploadId: 117599

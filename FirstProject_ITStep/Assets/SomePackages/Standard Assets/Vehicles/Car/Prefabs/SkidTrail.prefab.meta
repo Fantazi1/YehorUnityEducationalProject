@@ -3,3 +3,10 @@ guid: 4b6aa99de5d21424eab6ae279f31475b
 NativeFormatImporter:
   userData: 
   assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62697
+  packageName: 'Car''Toon : The Sport Car with interior'
+  packageVersion: 1.0
+  assetPath: Assets/SomePackages/Standard Assets/Vehicles/Car/Prefabs/SkidTrail.prefab
+  uploadId: 117599

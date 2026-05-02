@@ -3,3 +3,10 @@ guid: f7afdcb1eabdee54790f55f84e3e4ac8
 NativeFormatImporter:
   userData: 
   assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62697
+  packageName: 'Car''Toon : The Sport Car with interior'
+  packageVersion: 1.0
+  assetPath: Assets/SomePackages/SampleScenes/Prefabs/GroundTrack.prefab
+  uploadId: 117599

@@ -13,3 +13,10 @@ TrueTypeFontImporter:
   fontRenderingMode: 0
   userData: 
   assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62697
+  packageName: 'Car''Toon : The Sport Car with interior'
+  packageVersion: 1.0
+  assetPath: Assets/SomePackages/Standard Assets/Fonts/OpenSans/OpenSansRegular.ttf
+  uploadId: 117599

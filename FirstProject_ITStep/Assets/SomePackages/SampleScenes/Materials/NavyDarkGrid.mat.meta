@@ -3,3 +3,10 @@ guid: 01c04496878436140922b19f5220712b
 NativeFormatImporter:
   userData: 
   assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62697
+  packageName: 'Car''Toon : The Sport Car with interior'
+  packageVersion: 1.0
+  assetPath: Assets/SomePackages/SampleScenes/Materials/NavyDarkGrid.mat
+  uploadId: 117599

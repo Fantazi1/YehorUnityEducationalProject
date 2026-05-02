@@ -3,3 +3,10 @@ guid: f4dd0bba6decdd5418fd3d541ff5f7f0
 NativeFormatImporter:
   userData: 
   assetBundleName: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 62697
+  packageName: 'Car''Toon : The Sport Car with interior'
+  packageVersion: 1.0
+  assetPath: Assets/SomePackages/Standard Assets/Vehicles/Car/Materials/TrailSkid.mat
+  uploadId: 117599
