@@ -9,6 +9,10 @@ TagManager:
   - SpearTag
   - LongSwordTag
   - BowTag
+  - ShieldTag
+  - CommonSword
+  - QuiverTag
+  - ArmorTag
   layers:
   - Default
   - TransparentFX
