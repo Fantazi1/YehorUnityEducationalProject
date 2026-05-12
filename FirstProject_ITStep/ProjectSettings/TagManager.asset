@@ -13,6 +13,7 @@ TagManager:
   - CommonSword
   - QuiverTag
   - ArmorTag
+  - MerchantTag
   layers:
   - Default
   - TransparentFX
