@@ -16,6 +16,7 @@ TagManager:
   - MerchantTag
   - Ground
   - CrystalTag
+  - HookableTag
   layers:
   - Default
   - TransparentFX
