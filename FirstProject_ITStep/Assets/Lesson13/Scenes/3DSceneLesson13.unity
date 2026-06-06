@@ -211,6 +211,7 @@ MonoBehaviour:
   _fireballPrefab: {fileID: 3481041552061164833, guid: 3bb8e7e0b0f79754281bba0f0997fbc3, type: 3}
   _spikePrefab: {fileID: 6673915808314066704, guid: 055e17d1cbfe9474dbcf9a71043ed8a6, type: 3}
   _buildCubePrefab: {fileID: 3468215261028193424, guid: e1f031beb8305764395cb2f3a60f3aae, type: 3}
+  _buildSpherePrefub: {fileID: 3849476650205866079, guid: 769a32b629defd74e8c7fb51a115dc4b, type: 3}
   _spawnPoint: {fileID: 1709885900}
   _fireballForce: 20
   _fireballMaxDistance: 20

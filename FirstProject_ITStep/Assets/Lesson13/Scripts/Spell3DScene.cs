@@ -8,6 +8,9 @@ public class Spell3DScene : MonoBehaviour
     [SerializeField] private GameObject _spikePrefab;
     [SerializeField] private GameObject _buildCubePrefab;
 
+    [SerializeField] private GameObject _buildSpherePrefub;
+    private GameObject _buildPrefub;
+
     [SerializeField] private Transform _spawnPoint;
 
     [Header("Fireball")]
@@ -22,6 +25,7 @@ public class Spell3DScene : MonoBehaviour
     [Header("BuildCubes")]
     [SerializeField] private float _buildCubesDistance = 10f;
     [SerializeField] private float _buildCubesLifetime = 2f;
+    [SerializeField] private int _maxBuildObjects = 3;
 
     [Header("Spikes")]
     [SerializeField] private float _spikeLifetime = 2f;
@@ -30,6 +34,11 @@ public class Spell3DScene : MonoBehaviour
 
     private List<GameObject> _activeSpikes = new List<GameObject>();
     private List<GameObject> _activeBuildCubes = new List<GameObject>();
+
+    private void Start()
+    {
+        _buildPrefub = _buildCubePrefab;
+    }
 
     private void Update()
     {
@@ -50,7 +59,17 @@ public class Spell3DScene : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.N))
         {
-            BuildCubesSpawn();
+            BuildCubesSpawn(_buildPrefub);
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha1)) //Targets the 1 key located in the top alphanumeric row of your keyboard
+        {
+            _buildPrefub = _buildCubePrefab;
+        }
+
+        if (Input.GetKeyDown(KeyCode.Alpha2))
+        {
+            _buildPrefub = _buildSpherePrefub;
         }
     }
 
@@ -121,11 +140,19 @@ public class Spell3DScene : MonoBehaviour
         }
     }
 
-    private void BuildCubesSpawn()
+    private void BuildCubesSpawn(GameObject _buildSpawnPrefub)
     {
+        if (_activeBuildCubes.Count >= _maxBuildObjects)
+        {
+            Destroy(_activeBuildCubes[0]);
+            _activeBuildCubes.RemoveAt(0);
+        }
+
         RaycastHit hit;
 
-        Camera mainCamera = Camera.main;
+        //Camera mainCamera = Camera.main;
+
+        GameObject  mainCamera = _spawnPoint.gameObject;
 
         if (mainCamera == null) return;
 
@@ -135,7 +162,7 @@ public class Spell3DScene : MonoBehaviour
         if (Physics.Raycast(rayStart, rayDirection, out hit, _buildCubesDistance))
         {
             Vector3 spawnPosition = hit.point + (hit.normal * 0.5f);
-            GameObject buildCubes = Instantiate(_buildCubePrefab, spawnPosition, Quaternion.identity);
+            GameObject buildCubes = Instantiate(_buildSpawnPrefub, spawnPosition, Quaternion.identity);
 
             _activeBuildCubes.Add(buildCubes);
 
