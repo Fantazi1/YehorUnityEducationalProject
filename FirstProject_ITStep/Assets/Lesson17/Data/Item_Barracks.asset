@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f5d5186d4701f341b249d6588eaf9a2, type: 3}
+  m_Name: Item_Barracks
+  m_EditorClassIdentifier: Assembly-CSharp::BuildingData
+  id: 
+  displayName: Barracks
+  icon: {fileID: 21300000, guid: 1ebd5a7292330904d9bd3f6c8af74160, type: 3}
+  worldSprite: {fileID: 21300000, guid: 26b77cafd044d0b4b904a814a317b82a, type: 3}
+  worldPrefab: {fileID: 4265952064617383841, guid: 60861af880ff2c342a4d2921f0e2fdbe, type: 3}
+  category: baracks
+  costType: 0
+  costAmount: 50
+  refundFraction: 0.5

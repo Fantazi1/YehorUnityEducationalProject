@@ -1,0 +1,767 @@
+fileFormatVersion: 2
+guid: b28b966cb02a34e4fae2edce858f51d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5420829631873244300
+    second: GOLD MINE 31_0
+  - first:
+      213: 2176884696432910493
+    second: GOLD MINE 31_1
+  - first:
+      213: -2283816820793758980
+    second: GOLD MINE 31_2
+  - first:
+      213: -7962987787095906509
+    second: GOLD MINE 31_3
+  - first:
+      213: 6118547045761454277
+    second: GOLD MINE 31_4
+  - first:
+      213: -4458691607072474164
+    second: GOLD MINE 31_5
+  - first:
+      213: -7211272125871823516
+    second: GOLD MINE 31_6
+  - first:
+      213: -2883509511364843372
+    second: GOLD MINE 31_7
+  - first:
+      213: 1254329335686473039
+    second: GOLD MINE 31_8
+  - first:
+      213: -6477266451767255905
+    second: GOLD MINE 31_9
+  - first:
+      213: 3386956085789710527
+    second: GOLD MINE 31_10
+  - first:
+      213: -1905295363838852034
+    second: GOLD MINE 31_11
+  - first:
+      213: -5663208647794316700
+    second: GOLD MINE 31_12
+  - first:
+      213: -9116457797024373047
+    second: GOLD MINE 31_13
+  - first:
+      213: -5825325709686487169
+    second: GOLD MINE 31_14
+  - first:
+      213: 1940127208424304568
+    second: GOLD MINE 31_15
+  - first:
+      213: 6144637364215070182
+    second: GOLD MINE 31_16
+  - first:
+      213: 6093637962982099678
+    second: GOLD MINE 31_17
+  - first:
+      213: 333995217506885767
+    second: GOLD MINE 31_18
+  - first:
+      213: -8247508137609823167
+    second: GOLD MINE 31_19
+  - first:
+      213: -6005167889934451324
+    second: GOLD MINE 31_20
+  - first:
+      213: -4454607450125000606
+    second: GOLD MINE 31_21
+  - first:
+      213: 1067341410614364947
+    second: GOLD MINE 31_22
+  - first:
+      213: -4861964059215644111
+    second: GOLD MINE 31_23
+  - first:
+      213: -2646717208204886865
+    second: GOLD MINE 31_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: GOLD MINE 31_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 0
+        width: 2216
+        height: 1567
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c57b354d7aa3b40800000000000000
+      internalID: 5420829631873244300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_1
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 1554
+        width: 45
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d902ed70919d53e10800000000000000
+      internalID: 2176884696432910493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1548
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfaa680a3b04e40e0800000000000000
+      internalID: -2283816820793758980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_3
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1557
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 337ef5f1cc8cd7190800000000000000
+      internalID: -7962987787095906509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_4
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1553
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c09024ee1279e450800000000000000
+      internalID: 6118547045761454277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_5
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 1549
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccbfd654b9b8f12c0800000000000000
+      internalID: -4458691607072474164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_6
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 1519
+        width: 101
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465ebbe553a6ceb90800000000000000
+      internalID: -7211272125871823516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 1033
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49863ac7067bbf7d0800000000000000
+      internalID: -2883509511364843372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 955
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45a1f492e5486110800000000000000
+      internalID: 1254329335686473039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 945
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9c9bdaea702c16a0800000000000000
+      internalID: -6477266451767255905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_10
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb8d75b7d92e00f20800000000000000
+      internalID: 3386956085789710527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 226
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34cf2616f70f85e0800000000000000
+      internalID: -1905295363838852034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_12
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 0
+        width: 209
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46aac436dbd3861b0800000000000000
+      internalID: -5663208647794316700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_13
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 18
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6a5864fe5db7180800000000000000
+      internalID: -9116457797024373047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_14
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 28
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77cf258129482fa0800000000000000
+      internalID: -5825325709686487169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 14
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf6335ba67bcea10800000000000000
+      internalID: 1940127208424304568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_16
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 0
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6edb1a78023264550800000000000000
+      internalID: 6144637364215070182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_17
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 0
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda026d1173f09450800000000000000
+      internalID: 6093637962982099678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_18
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 9
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7806d2871e692a400800000000000000
+      internalID: 333995217506885767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_19
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 0
+        width: 81
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c7f97cb07fa8d80800000000000000
+      internalID: -8247508137609823167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_20
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 6
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48dffdfee9b59aca0800000000000000
+      internalID: -6005167889934451324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_21
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260ad79202e0e22c0800000000000000
+      internalID: -4454607450125000606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_22
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 0
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bcbb1ab55ffce00800000000000000
+      internalID: 1067341410614364947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_23
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 4
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a3cbba275d68cb0800000000000000
+      internalID: -4861964059215644111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: GOLD MINE 31_24
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facb808d8b8f44bd0800000000000000
+      internalID: -2646717208204886865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      GOLD MINE 31_0: 5420829631873244300
+      GOLD MINE 31_1: 2176884696432910493
+      GOLD MINE 31_10: 3386956085789710527
+      GOLD MINE 31_11: -1905295363838852034
+      GOLD MINE 31_12: -5663208647794316700
+      GOLD MINE 31_13: -9116457797024373047
+      GOLD MINE 31_14: -5825325709686487169
+      GOLD MINE 31_15: 1940127208424304568
+      GOLD MINE 31_16: 6144637364215070182
+      GOLD MINE 31_17: 6093637962982099678
+      GOLD MINE 31_18: 333995217506885767
+      GOLD MINE 31_19: -8247508137609823167
+      GOLD MINE 31_2: -2283816820793758980
+      GOLD MINE 31_20: -6005167889934451324
+      GOLD MINE 31_21: -4454607450125000606
+      GOLD MINE 31_22: 1067341410614364947
+      GOLD MINE 31_23: -4861964059215644111
+      GOLD MINE 31_24: -2646717208204886865
+      GOLD MINE 31_3: -7962987787095906509
+      GOLD MINE 31_4: 6118547045761454277
+      GOLD MINE 31_5: -4458691607072474164
+      GOLD MINE 31_6: -7211272125871823516
+      GOLD MINE 31_7: -2883509511364843372
+      GOLD MINE 31_8: 1254329335686473039
+      GOLD MINE 31_9: -6477266451767255905
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
