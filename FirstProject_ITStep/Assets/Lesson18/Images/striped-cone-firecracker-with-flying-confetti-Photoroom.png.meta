@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 977efa11f13a9fa44b5a57de2f3fd642
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6842913652322337860
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_0
+  - first:
+      213: 3829362188544294291
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_1
+  - first:
+      213: -7442564591431514926
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_2
+  - first:
+      213: 7655558286455339277
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_3
+  - first:
+      213: -5429043358696245423
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_4
+  - first:
+      213: 6536534505828024057
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_5
+  - first:
+      213: -8177887467548924097
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_6
+  - first:
+      213: -9083860006497756491
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_7
+  - first:
+      213: -6789134187295857768
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_8
+  - first:
+      213: 3817255316822058670
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_9
+  - first:
+      213: -4011075910149493591
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_10
+  - first:
+      213: -4122162852831117176
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_11
+  - first:
+      213: 713430189335046514
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_12
+  - first:
+      213: 215774217331037673
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_13
+  - first:
+      213: -279163530503368482
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_14
+  - first:
+      213: 6563645703631687194
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_15
+  - first:
+      213: 7639948835816105745
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_16
+  - first:
+      213: 3235001988145452064
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_17
+  - first:
+      213: 5590623957816111131
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_18
+  - first:
+      213: -8481536100827511119
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_19
+  - first:
+      213: -3328975604611175791
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_20
+  - first:
+      213: 5356778927737852271
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_21
+  - first:
+      213: 8893835407427817792
+    second: striped-cone-firecracker-with-flying-confetti-Photoroom_22
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 564
+        width: 18
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbf7acd9461901a0800000000000000
+      internalID: -6842913652322337860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 546
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dbe742f90a42530800000000000000
+      internalID: 3829362188544294291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 528
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d403ddbfe2b6b890800000000000000
+      internalID: -7442564591431514926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 504
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f77d53b10e3a60800000000000000
+      internalID: 7655558286455339277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 374
+        width: 133
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15777be54d928a4b0800000000000000
+      internalID: -5429043358696245423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 475
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fe76f1408f66ba50800000000000000
+      internalID: 6536534505828024057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 430
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37a0a33dae428e80800000000000000
+      internalID: -8177887467548924097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 398
+        width: 25
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bad253d375afe180800000000000000
+      internalID: -9083860006497756491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 281
+        width: 52
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89325c15d6628c1a0800000000000000
+      internalID: -6789134187295857768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 430
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea666286c7d99f430800000000000000
+      internalID: 3817255316822058670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 391
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9aca96816bbc558c0800000000000000
+      internalID: -4011075910149493591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 352
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880c0bab9b22bc6c0800000000000000
+      internalID: -4122162852831117176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 318
+        width: 58
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279ea5f2afc96e900800000000000000
+      internalID: 713430189335046514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 328
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e554b7e1859ef200800000000000000
+      internalID: 215774217331037673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 288
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed05a128f36302cf0800000000000000
+      internalID: -279163530503368482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 307
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e4c74edf0c61b50800000000000000
+      internalID: 6563645703631687194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 258
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1176afcecfc860a60800000000000000
+      internalID: 7639948835816105745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 205
+        width: 237
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024971f1b2905ec20800000000000000
+      internalID: 3235001988145452064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 262
+        width: 40
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b10fa668ed2e59d40800000000000000
+      internalID: 5590623957816111131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 35
+        width: 209
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b646887ad78b4a80800000000000000
+      internalID: -8481536100827511119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 231
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19aa535435a1dc1d0800000000000000
+      internalID: -3328975604611175791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 156
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f61dc18ad0a175a40800000000000000
+      internalID: 5356778927737852271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: striped-cone-firecracker-with-flying-confetti-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 165
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041d6867e204d6b70800000000000000
+      internalID: 8893835407427817792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      striped-cone-firecracker-with-flying-confetti-Photoroom_0: -6842913652322337860
+      striped-cone-firecracker-with-flying-confetti-Photoroom_1: 3829362188544294291
+      striped-cone-firecracker-with-flying-confetti-Photoroom_10: -4011075910149493591
+      striped-cone-firecracker-with-flying-confetti-Photoroom_11: -4122162852831117176
+      striped-cone-firecracker-with-flying-confetti-Photoroom_12: 713430189335046514
+      striped-cone-firecracker-with-flying-confetti-Photoroom_13: 215774217331037673
+      striped-cone-firecracker-with-flying-confetti-Photoroom_14: -279163530503368482
+      striped-cone-firecracker-with-flying-confetti-Photoroom_15: 6563645703631687194
+      striped-cone-firecracker-with-flying-confetti-Photoroom_16: 7639948835816105745
+      striped-cone-firecracker-with-flying-confetti-Photoroom_17: 3235001988145452064
+      striped-cone-firecracker-with-flying-confetti-Photoroom_18: 5590623957816111131
+      striped-cone-firecracker-with-flying-confetti-Photoroom_19: -8481536100827511119
+      striped-cone-firecracker-with-flying-confetti-Photoroom_2: -7442564591431514926
+      striped-cone-firecracker-with-flying-confetti-Photoroom_20: -3328975604611175791
+      striped-cone-firecracker-with-flying-confetti-Photoroom_21: 5356778927737852271
+      striped-cone-firecracker-with-flying-confetti-Photoroom_22: 8893835407427817792
+      striped-cone-firecracker-with-flying-confetti-Photoroom_3: 7655558286455339277
+      striped-cone-firecracker-with-flying-confetti-Photoroom_4: -5429043358696245423
+      striped-cone-firecracker-with-flying-confetti-Photoroom_5: 6536534505828024057
+      striped-cone-firecracker-with-flying-confetti-Photoroom_6: -8177887467548924097
+      striped-cone-firecracker-with-flying-confetti-Photoroom_7: -9083860006497756491
+      striped-cone-firecracker-with-flying-confetti-Photoroom_8: -6789134187295857768
+      striped-cone-firecracker-with-flying-confetti-Photoroom_9: 3817255316822058670
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: ebc3f17f45934064081ec78acb1e2f00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8976521268209985283
+    second: drawing-party-with-party-hat-party-hat-Photoroom_0
+  - first:
+      213: 679040789732496111
+    second: drawing-party-with-party-hat-party-hat-Photoroom_1
+  - first:
+      213: 5140471567547652820
+    second: drawing-party-with-party-hat-party-hat-Photoroom_2
+  - first:
+      213: -8997327816027352243
+    second: drawing-party-with-party-hat-party-hat-Photoroom_3
+  - first:
+      213: -5537646217780791834
+    second: drawing-party-with-party-hat-party-hat-Photoroom_4
+  - first:
+      213: -4159734950961958109
+    second: drawing-party-with-party-hat-party-hat-Photoroom_5
+  - first:
+      213: 2399149770069153037
+    second: drawing-party-with-party-hat-party-hat-Photoroom_6
+  - first:
+      213: 6732699829305099064
+    second: drawing-party-with-party-hat-party-hat-Photoroom_7
+  - first:
+      213: -5044802500290111664
+    second: drawing-party-with-party-hat-party-hat-Photoroom_8
+  - first:
+      213: -9156298679633499320
+    second: drawing-party-with-party-hat-party-hat-Photoroom_9
+  - first:
+      213: -4342975767338659328
+    second: drawing-party-with-party-hat-party-hat-Photoroom_10
+  - first:
+      213: -4336966605221589928
+    second: drawing-party-with-party-hat-party-hat-Photoroom_11
+  - first:
+      213: 8536449811384999923
+    second: drawing-party-with-party-hat-party-hat-Photoroom_12
+  - first:
+      213: 1839987511160609753
+    second: drawing-party-with-party-hat-party-hat-Photoroom_13
+  - first:
+      213: -8269231318442594581
+    second: drawing-party-with-party-hat-party-hat-Photoroom_14
+  - first:
+      213: 5397340768905421447
+    second: drawing-party-with-party-hat-party-hat-Photoroom_15
+  - first:
+      213: 8972511611804942848
+    second: drawing-party-with-party-hat-party-hat-Photoroom_16
+  - first:
+      213: -2017114048598174629
+    second: drawing-party-with-party-hat-party-hat-Photoroom_17
+  - first:
+      213: -5215941477707929151
+    second: drawing-party-with-party-hat-party-hat-Photoroom_18
+  - first:
+      213: -5428144389625424071
+    second: drawing-party-with-party-hat-party-hat-Photoroom_19
+  - first:
+      213: 1686357237270371530
+    second: drawing-party-with-party-hat-party-hat-Photoroom_20
+  - first:
+      213: -4971060594939751595
+    second: drawing-party-with-party-hat-party-hat-Photoroom_21
+  - first:
+      213: -1371929709422191950
+    second: drawing-party-with-party-hat-party-hat-Photoroom_22
+  - first:
+      213: 7440484661892460820
+    second: drawing-party-with-party-hat-party-hat-Photoroom_23
+  - first:
+      213: 770026422506756662
+    second: drawing-party-with-party-hat-party-hat-Photoroom_24
+  - first:
+      213: -242251861384637450
+    second: drawing-party-with-party-hat-party-hat-Photoroom_25
+  - first:
+      213: 8750038839355032648
+    second: drawing-party-with-party-hat-party-hat-Photoroom_26
+  - first:
+      213: 5957500875413387074
+    second: drawing-party-with-party-hat-party-hat-Photoroom_27
+  - first:
+      213: -1184094680439331947
+    second: drawing-party-with-party-hat-party-hat-Photoroom_28
+  - first:
+      213: 4224951468534954185
+    second: drawing-party-with-party-hat-party-hat-Photoroom_29
+  - first:
+      213: 2470258934427905396
+    second: drawing-party-with-party-hat-party-hat-Photoroom_30
+  - first:
+      213: -6035336324594570327
+    second: drawing-party-with-party-hat-party-hat-Photoroom_31
+  - first:
+      213: -3444467711250076666
+    second: drawing-party-with-party-hat-party-hat-Photoroom_32
+  - first:
+      213: 1013165544630598561
+    second: drawing-party-with-party-hat-party-hat-Photoroom_33
+  - first:
+      213: 6385339799610211306
+    second: drawing-party-with-party-hat-party-hat-Photoroom_34
+  - first:
+      213: 2066635484906418779
+    second: drawing-party-with-party-hat-party-hat-Photoroom_35
+  - first:
+      213: -473312082487732009
+    second: drawing-party-with-party-hat-party-hat-Photoroom_36
+  - first:
+      213: -8849380695650588218
+    second: drawing-party-with-party-hat-party-hat-Photoroom_37
+  - first:
+      213: 673092547969285703
+    second: drawing-party-with-party-hat-party-hat-Photoroom_38
+  - first:
+      213: -2588513141714837685
+    second: drawing-party-with-party-hat-party-hat-Photoroom_39
+  - first:
+      213: -453257556561850079
+    second: drawing-party-with-party-hat-party-hat-Photoroom_40
+  - first:
+      213: -5649248908477658890
+    second: drawing-party-with-party-hat-party-hat-Photoroom_41
+  - first:
+      213: -2123438479191348265
+    second: drawing-party-with-party-hat-party-hat-Photoroom_42
+  - first:
+      213: 2568580398147381746
+    second: drawing-party-with-party-hat-party-hat-Photoroom_43
+  - first:
+      213: 3837816432791038452
+    second: drawing-party-with-party-hat-party-hat-Photoroom_44
+  - first:
+      213: -3589151038883213653
+    second: drawing-party-with-party-hat-party-hat-Photoroom_45
+  - first:
+      213: -6594206426934989288
+    second: drawing-party-with-party-hat-party-hat-Photoroom_46
+  - first:
+      213: 4252007665979568731
+    second: drawing-party-with-party-hat-party-hat-Photoroom_47
+  - first:
+      213: 198103520394099208
+    second: drawing-party-with-party-hat-party-hat-Photoroom_48
+  - first:
+      213: -2542227887869277203
+    second: drawing-party-with-party-hat-party-hat-Photoroom_49
+  - first:
+      213: 5405017074970126883
+    second: drawing-party-with-party-hat-party-hat-Photoroom_50
+  - first:
+      213: -5236486003718747834
+    second: drawing-party-with-party-hat-party-hat-Photoroom_51
+  - first:
+      213: -1573408749430640196
+    second: drawing-party-with-party-hat-party-hat-Photoroom_52
+  - first:
+      213: -4752503685455377434
+    second: drawing-party-with-party-hat-party-hat-Photoroom_53
+  - first:
+      213: 4536995444959965541
+    second: drawing-party-with-party-hat-party-hat-Photoroom_54
+  - first:
+      213: -1666013003360033008
+    second: drawing-party-with-party-hat-party-hat-Photoroom_55
+  - first:
+      213: -343414878650417249
+    second: drawing-party-with-party-hat-party-hat-Photoroom_56
+  - first:
+      213: 2113630133969493966
+    second: drawing-party-with-party-hat-party-hat-Photoroom_57
+  - first:
+      213: 1480756724094499521
+    second: drawing-party-with-party-hat-party-hat-Photoroom_58
+  - first:
+      213: 1579185143520963390
+    second: drawing-party-with-party-hat-party-hat-Photoroom_59
+  - first:
+      213: -2806753252109896920
+    second: drawing-party-with-party-hat-party-hat-Photoroom_60
+  - first:
+      213: -5062299385893522487
+    second: drawing-party-with-party-hat-party-hat-Photoroom_61
+  - first:
+      213: 926003044652988269
+    second: drawing-party-with-party-hat-party-hat-Photoroom_62
+  - first:
+      213: -2847003519646726722
+    second: drawing-party-with-party-hat-party-hat-Photoroom_63
+  - first:
+      213: -983003669228863725
+    second: drawing-party-with-party-hat-party-hat-Photoroom_64
+  - first:
+      213: -4538321665962144416
+    second: drawing-party-with-party-hat-party-hat-Photoroom_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 173
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8da99577dfc6380800000000000000
+      internalID: -8976521268209985283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 165
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe2910420007c6900800000000000000
+      internalID: 679040789732496111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 162
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4da5ca1c7af965740800000000000000
+      internalID: 5140471567547652820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 167
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43d2fd6502132380800000000000000
+      internalID: -8997327816027352243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 177
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5f369ca145623b0800000000000000
+      internalID: -5537646217780791834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 54
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323b220f917a546c0800000000000000
+      internalID: -4159734950961958109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 169
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d059eef210e7b4120800000000000000
+      internalID: 2399149770069153037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 161
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8334019c2da5f6d50800000000000000
+      internalID: 6732699829305099064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 158
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0579430cad24df9b0800000000000000
+      internalID: -5044802500290111664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 166
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b211fecda4ee080800000000000000
+      internalID: -9156298679633499320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 163
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00256a7bc86aab3c0800000000000000
+      internalID: -4342975767338659328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 168
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c090dc9dfffc3c0800000000000000
+      internalID: -4336966605221589928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 159
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff9d8a10ef877670800000000000000
+      internalID: 8536449811384999923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 163
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db12e984e2f88910800000000000000
+      internalID: 1839987511160609753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 161
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beea1ba9de9cd3d80800000000000000
+      internalID: -8269231318442594581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 144
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 782675e35d437ea40800000000000000
+      internalID: 5397340768905421447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00283b4c5c3c48c70800000000000000
+      internalID: 8972511611804942848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 41
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b541bddb575c104e0800000000000000
+      internalID: -2017114048598174629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 59
+        width: 43
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c92efb7cd04d97b0800000000000000
+      internalID: -5215941477707929151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 38
+        width: 63
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 937d8daef6b5ba4b0800000000000000
+      internalID: -5428144389625424071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 155
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accd8ebf8f4276710800000000000000
+      internalID: 1686357237270371530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 150
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5539ca90abe330bb0800000000000000
+      internalID: -4971060594939751595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 150
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bad515b23de5fce0800000000000000
+      internalID: -1371929709422191950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 133
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 411b7dce069e14760800000000000000
+      internalID: 7440484661892460820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 141
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a1e2593feafaa00800000000000000
+      internalID: 770026422506756662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 140
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3ddff273953acf0800000000000000
+      internalID: -242251861384637450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 136
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844c0a6f6f16e6970800000000000000
+      internalID: 8750038839355032648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 126
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247f7146b7b4da250800000000000000
+      internalID: 5957500875413387074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 139
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ebf76920419fe0800000000000000
+      internalID: -1184094680439331947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 137
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c87a43d9fa02aa30800000000000000
+      internalID: 4224951468534954185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 122
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47d6fc1b96f184220800000000000000
+      internalID: 2470258934427905396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 122
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab6780e69d2e3ca0800000000000000
+      internalID: -6035336324594570327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 128
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ce2aebddac230d0800000000000000
+      internalID: -3444467711250076666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 39
+        width: 116
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ab3f52e1bc7f0e00800000000000000
+      internalID: 1013165544630598561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 127
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb3eed77b84d9850800000000000000
+      internalID: 6385339799610211306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 120
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b527016260a2eac10800000000000000
+      internalID: 2066635484906418779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 98
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d81b6f2b257e69f0800000000000000
+      internalID: -473312082487732009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 42
+        width: 69
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c92c81b42fa03580800000000000000
+      internalID: -8849380695650588218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 105
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74efbae2b1e475900800000000000000
+      internalID: 673092547969285703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 108
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f18ab1301c31cd0800000000000000
+      internalID: -2588513141714837685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 109
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1219e5d57a4b5b9f0800000000000000
+      internalID: -453257556561850079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 85
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f80d6a7c06d991b0800000000000000
+      internalID: -5649248908477658890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 87
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7db676124f70882e0800000000000000
+      internalID: -2123438479191348265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 79
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f92b90634e65a320800000000000000
+      internalID: 2568580398147381746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 50
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9aaa546b9a24530800000000000000
+      internalID: 3837816432791038452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 66
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae44227526c03ec0800000000000000
+      internalID: -3589151038883213653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 61
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81e21fa313cac74a0800000000000000
+      internalID: -6594206426934989288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 38
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5233f0b17a220b30800000000000000
+      internalID: 4252007665979568731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 50
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80a38d92a1ecfb200800000000000000
+      internalID: 198103520394099208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 51
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debc57d843138bcd0800000000000000
+      internalID: -2542227887869277203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 35
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ae386846a720b40800000000000000
+      internalID: 5405017074970126883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 38
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6490a0549b34457b0800000000000000
+      internalID: -5236486003718747834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 37
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1f1b324112a2ae0800000000000000
+      internalID: -1573408749430640196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 41
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb82b2f317bb0eb0800000000000000
+      internalID: -4752503685455377434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 36
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5617764b155a6fe30800000000000000
+      internalID: 4536995444959965541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0172b87100221e8e0800000000000000
+      internalID: -1666013003360033008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 42
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9f3573ccf1fb3bf0800000000000000
+      internalID: -343414878650417249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 29
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecf10d9886f155d10800000000000000
+      internalID: 2113630133969493966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 32
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca7c6a2564bc8410800000000000000
+      internalID: 1480756724094499521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 25
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b242a65846ae510800000000000000
+      internalID: 1579185143520963390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 31
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82331dbb9c86c09d0800000000000000
+      internalID: -2806753252109896920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 31
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3732d97891fb9b0800000000000000
+      internalID: -5062299385893522487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 20
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b879ecd2d9dc00800000000000000
+      internalID: 926003044652988269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 27
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb58b2902696d78d0800000000000000
+      internalID: -2847003519646726722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 20
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31f35bafe5bab52f0800000000000000
+      internalID: -983003669228863725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: drawing-party-with-party-hat-party-hat-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06d0ed76d74a401c0800000000000000
+      internalID: -4538321665962144416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      drawing-party-with-party-hat-party-hat-Photoroom_0: -8976521268209985283
+      drawing-party-with-party-hat-party-hat-Photoroom_1: 679040789732496111
+      drawing-party-with-party-hat-party-hat-Photoroom_10: -4342975767338659328
+      drawing-party-with-party-hat-party-hat-Photoroom_11: -4336966605221589928
+      drawing-party-with-party-hat-party-hat-Photoroom_12: 8536449811384999923
+      drawing-party-with-party-hat-party-hat-Photoroom_13: 1839987511160609753
+      drawing-party-with-party-hat-party-hat-Photoroom_14: -8269231318442594581
+      drawing-party-with-party-hat-party-hat-Photoroom_15: 5397340768905421447
+      drawing-party-with-party-hat-party-hat-Photoroom_16: 8972511611804942848
+      drawing-party-with-party-hat-party-hat-Photoroom_17: -2017114048598174629
+      drawing-party-with-party-hat-party-hat-Photoroom_18: -5215941477707929151
+      drawing-party-with-party-hat-party-hat-Photoroom_19: -5428144389625424071
+      drawing-party-with-party-hat-party-hat-Photoroom_2: 5140471567547652820
+      drawing-party-with-party-hat-party-hat-Photoroom_20: 1686357237270371530
+      drawing-party-with-party-hat-party-hat-Photoroom_21: -4971060594939751595
+      drawing-party-with-party-hat-party-hat-Photoroom_22: -1371929709422191950
+      drawing-party-with-party-hat-party-hat-Photoroom_23: 7440484661892460820
+      drawing-party-with-party-hat-party-hat-Photoroom_24: 770026422506756662
+      drawing-party-with-party-hat-party-hat-Photoroom_25: -242251861384637450
+      drawing-party-with-party-hat-party-hat-Photoroom_26: 8750038839355032648
+      drawing-party-with-party-hat-party-hat-Photoroom_27: 5957500875413387074
+      drawing-party-with-party-hat-party-hat-Photoroom_28: -1184094680439331947
+      drawing-party-with-party-hat-party-hat-Photoroom_29: 4224951468534954185
+      drawing-party-with-party-hat-party-hat-Photoroom_3: -8997327816027352243
+      drawing-party-with-party-hat-party-hat-Photoroom_30: 2470258934427905396
+      drawing-party-with-party-hat-party-hat-Photoroom_31: -6035336324594570327
+      drawing-party-with-party-hat-party-hat-Photoroom_32: -3444467711250076666
+      drawing-party-with-party-hat-party-hat-Photoroom_33: 1013165544630598561
+      drawing-party-with-party-hat-party-hat-Photoroom_34: 6385339799610211306
+      drawing-party-with-party-hat-party-hat-Photoroom_35: 2066635484906418779
+      drawing-party-with-party-hat-party-hat-Photoroom_36: -473312082487732009
+      drawing-party-with-party-hat-party-hat-Photoroom_37: -8849380695650588218
+      drawing-party-with-party-hat-party-hat-Photoroom_38: 673092547969285703
+      drawing-party-with-party-hat-party-hat-Photoroom_39: -2588513141714837685
+      drawing-party-with-party-hat-party-hat-Photoroom_4: -5537646217780791834
+      drawing-party-with-party-hat-party-hat-Photoroom_40: -453257556561850079
+      drawing-party-with-party-hat-party-hat-Photoroom_41: -5649248908477658890
+      drawing-party-with-party-hat-party-hat-Photoroom_42: -2123438479191348265
+      drawing-party-with-party-hat-party-hat-Photoroom_43: 2568580398147381746
+      drawing-party-with-party-hat-party-hat-Photoroom_44: 3837816432791038452
+      drawing-party-with-party-hat-party-hat-Photoroom_45: -3589151038883213653
+      drawing-party-with-party-hat-party-hat-Photoroom_46: -6594206426934989288
+      drawing-party-with-party-hat-party-hat-Photoroom_47: 4252007665979568731
+      drawing-party-with-party-hat-party-hat-Photoroom_48: 198103520394099208
+      drawing-party-with-party-hat-party-hat-Photoroom_49: -2542227887869277203
+      drawing-party-with-party-hat-party-hat-Photoroom_5: -4159734950961958109
+      drawing-party-with-party-hat-party-hat-Photoroom_50: 5405017074970126883
+      drawing-party-with-party-hat-party-hat-Photoroom_51: -5236486003718747834
+      drawing-party-with-party-hat-party-hat-Photoroom_52: -1573408749430640196
+      drawing-party-with-party-hat-party-hat-Photoroom_53: -4752503685455377434
+      drawing-party-with-party-hat-party-hat-Photoroom_54: 4536995444959965541
+      drawing-party-with-party-hat-party-hat-Photoroom_55: -1666013003360033008
+      drawing-party-with-party-hat-party-hat-Photoroom_56: -343414878650417249
+      drawing-party-with-party-hat-party-hat-Photoroom_57: 2113630133969493966
+      drawing-party-with-party-hat-party-hat-Photoroom_58: 1480756724094499521
+      drawing-party-with-party-hat-party-hat-Photoroom_59: 1579185143520963390
+      drawing-party-with-party-hat-party-hat-Photoroom_6: 2399149770069153037
+      drawing-party-with-party-hat-party-hat-Photoroom_60: -2806753252109896920
+      drawing-party-with-party-hat-party-hat-Photoroom_61: -5062299385893522487
+      drawing-party-with-party-hat-party-hat-Photoroom_62: 926003044652988269
+      drawing-party-with-party-hat-party-hat-Photoroom_63: -2847003519646726722
+      drawing-party-with-party-hat-party-hat-Photoroom_64: -983003669228863725
+      drawing-party-with-party-hat-party-hat-Photoroom_65: -4538321665962144416
+      drawing-party-with-party-hat-party-hat-Photoroom_7: 6732699829305099064
+      drawing-party-with-party-hat-party-hat-Photoroom_8: -5044802500290111664
+      drawing-party-with-party-hat-party-hat-Photoroom_9: -9156298679633499320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
