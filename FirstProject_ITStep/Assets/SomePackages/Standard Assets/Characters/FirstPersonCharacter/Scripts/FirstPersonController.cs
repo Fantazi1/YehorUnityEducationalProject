@@ -45,6 +45,17 @@ namespace UnityStandardAssets.Characters.FirstPerson
 
         public bool canRotate = true;
 
+        public float M_WalkSpeed        //Додано мною для Lesson29
+        {
+            get { return m_WalkSpeed; }
+            set { m_WalkSpeed = value; }
+        }
+        public float M_RunSpeed        //Додано мною для Lesson29
+        {
+            get { return m_RunSpeed; }
+            set {  m_RunSpeed = value; }
+        }
+
         // Use this for initialization
         private void Start()
         {
